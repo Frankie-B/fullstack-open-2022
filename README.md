@@ -1,2 +1,14 @@
 # fullstack-open-2022
 Helsinki University Open fullstack development course.
+
+### Course Exercises:
+
+- ## **Part 0**
+    - 0.1 - HTML (Reading)
+    - 0.2 = CSS (Reading)
+    - 0.3 - Html Forms
+    - 0.4 - [New note](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC40OiBOZXcgbm90ZQoKYnJvd3Nlci0-c2VydmVyOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbm90ZXMKADwGLS0-AE0HOiBVUkwgUmVkaXJlY3QgUmVxdWVzdCB0bwApMQCBDxZHRQBgREhUTUwtY29kZQAhRW1haW4uY3MAgXkUABIJAB9JagBOGWpzCgpub3RlIG92ZXIgAIMICACDZQggc3RhcnRzIGV4ZWN1dGluZyBqcwCBfQZ0aGF0IHIAgyMGcyBKU09OIGRhdGEgZnJvbSAAhBwGCmVuZACEHx0AgmkuZGF0YS5qc29uAIQsE1t7IGNvbnRlbnQ6ICJIVE1MIGlzIGVhc3kiLCBkYXRlOiAiMjAxOS0wNS0yMyIgfSwgLi4uXQCBXR0AgW0GZXMgdGhlIGV2ZW50IGhhbmRsZXIAgXQIbmRlcnMAhhgFcyB0byBkaXNwbGF5AIFsCg&s=default)
+    - 0.5 - [Single page app](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC41OiBTaW5nbGUgcGFnZSBhcHAKCmJyb3dzZXItPnNlcnZlcjogSFRUUCBHRVQgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbm90ZXMKADsGLS0-AEwHOiBIVE1MABxFbWFpbi5jcwBQFAASCQAfSWoAThlqACBGZGF0YS5qc29uAIIgE1t7IGNvbnRlbnQ6ICJIVE1MIGlzIGVhc3kiLCBkYXRlOiAiMjAxOS0wNS0yMyIgfSwgLi4uXQoK&s=default)
+    - 0.6 - [New note](https://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgMC42OiBOZXcgbm90ZQoKCm5vdGUgb3ZlciBicm93c2VyOgoAAgcgZXhjdXRlcyB0aGUganMtY29kZQp0aGF0IHBvc3RzIEpTT04gZGF0YSB0byBzZXJ2ZXIgCmVuZABTBwBIBy0-ABUGOiBIVFRQIFBPU1QgaHR0cHM6Ly9zdHVkaWVzLmNzLmhlbHNpbmtpLmZpL2V4YW1wbGVhcHAvbm90ZXMKAFcGLS0-AIEbCCBTdGF0dXMgAIEOBQCBDjVnZQCBNQ1mcm9tAIE9Bwp3aXRob3V0IHJlZnJlc2hpbmcAgX0FcGFnZQCBPiFHRQCBGkRIVE1MAIFVBwAjRWRhdGEuanNvbgCCNxNbeyBjb250ZW50OiAiAHQFaXMgZWFzeSIsIGRhdGU6ICIyMDE5LTA1LTIzIiB9LCAuLi5dCiAgCkEtPkI6IHRleHQKCg&s=default)
+
+## Fundamentals of Web apps
